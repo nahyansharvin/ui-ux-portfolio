@@ -1,7 +1,10 @@
 import React from 'react'
 
-import { Footer, Blog, Possibility, Works, Header, Services } from './containers'
+//Custom components
+import { Footer, Works, Header, Services } from './containers'
 import { Contact, Brand, Navbar } from './components'
+
+import './App.css'
 
 const App = () => {
     return (
