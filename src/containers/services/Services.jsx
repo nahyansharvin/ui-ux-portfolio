@@ -11,7 +11,7 @@ function Services() {
             <h1 className='gradient-text'>Services Offered</h1>
             <div className='services-container'>
                 <div className='services-container-grid'>
-                    <Service icon={ } title="Ui/Ux Design" />
+                    <Service title="Ui/Ux Design" />
                 </div>
             </div>
         </div>
