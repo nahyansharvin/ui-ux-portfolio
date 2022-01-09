@@ -1,9 +1,14 @@
 .hero{
-    height: calc(100vh - 100px);
+    /* height: calc(100vh - 100px); */
     display: flex;
     padding-top: 1rem !important;
 }
 
+@media screen and (min-width: 1050px) {
+    .hero{
+        height: calc(100vh - 100px);
+    }
+}
 .hero-content{
     flex: 1;
     display: flex;
