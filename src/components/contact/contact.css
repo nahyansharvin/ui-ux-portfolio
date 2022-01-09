@@ -1,5 +1,16 @@
 .contact{
     background: var(--gradient-bar);
-    height: 200px;
+    padding: 2rem;
     border-radius: 1rem;
+}
+
+.contact-heading{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contact-heading h2{
+    font-size: 30px;
+    font-weight: 800;
 }
