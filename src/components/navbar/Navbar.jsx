@@ -39,7 +39,7 @@ function Navbar() {
                             <div className='portfolio-navbar-menu-container-links'>
                                 <Menu />
                                 <div className='portfolio-navbar-menu-container-links-ctabtn'>
-                                    <a href='#contact'>Get in touch</a>
+                                    <a className='portfolio-navbar-menu-ctabtn' href='#contact'>Get in touch</a>
                                 </div>
                             </div>
                         </div>
