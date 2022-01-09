@@ -26,7 +26,13 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    margin: 0 1.5rem;
+    margin: 1.5rem;
+}
+
+@media screen and (max-width: 790px) {
+    .service-grid{
+        margin: 1rem;
+    }
 }
 
 .service-grid h2{
