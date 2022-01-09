@@ -37,6 +37,9 @@
 }
 
 .explore-btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
     min-height: 50px;
     background: #FF4820;
     border-radius: 5px;
