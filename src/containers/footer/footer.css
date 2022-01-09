@@ -1,0 +1,13 @@
+.footer{
+    background: var(--color-footer);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.footer-copyright p{
+    color: #fff;
+    font-size: 14px;
+    transform: translateY(45px);
+}

@@ -3,8 +3,11 @@ import './footer.css'
 
 function Footer() {
     return (
-        <div>
-            Footer
+        <div className='footer section-padding'>
+
+            <div className='footer-copyright'>
+                <p>© 2021 NAHYAN. All rights reserved.</p>
+            </div>
         </div>
     )
 }
