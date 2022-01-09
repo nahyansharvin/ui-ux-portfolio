@@ -45,8 +45,8 @@
     cursor: pointer;
 }
 
-.portfolio-navbar-ctabtn button,
-.portfolio-navbar-menu-container button{
+.portfolio-navbar-ctabtn a,
+.portfolio-navbar-menu-container a{
     padding: 0.5rem 1rem;
     color: #fff;
     background: #FF4820;
