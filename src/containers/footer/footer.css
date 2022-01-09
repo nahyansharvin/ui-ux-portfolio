@@ -7,6 +7,27 @@
 
 }
 
+.contact-details{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    margin-bottom: 2rem;
+}
+
+.contact-details-child{
+    display: flex;
+    align-items: center;
+    margin: 1rem;
+}
+
+.contact-details-child p{
+    color: #fff;
+    margin-left: 1rem;
+    font-size: 14px;
+
+}
+
 .footer-copyright p{
     color: #fff;
     font-size: 14px;
