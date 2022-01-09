@@ -9,7 +9,6 @@ function Service({ icon, title, text }) {
         </div> 
         <h2 className='gradient-text'>{title}</h2>
         <p>{text}</p>
-            
         </div>
     )
 }
