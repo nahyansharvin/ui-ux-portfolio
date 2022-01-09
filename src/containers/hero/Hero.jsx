@@ -16,7 +16,7 @@ function Hero() {
 
             </div>
             <div className='hero-image'>
-                <img src={hero_img} alt='Hero' />
+                {/* <img src={hero_img} alt='Hero' /> */}
             </div>
         </div>
         <div className='hero-scroll-animation'>

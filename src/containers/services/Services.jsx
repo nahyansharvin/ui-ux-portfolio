@@ -7,7 +7,7 @@ import './services.css'
 import { Brackets,DigitalMarketing, Sketch, AppDev } from '../../assets'
 function Services() {
     return (
-        <div className='services section-margin' id='#services'>
+        <div className='services section-margin' id='services'>
         <h1 className='gradient-text'>Services Offered</h1>
         <div className='services-container'>
             <Service icon={DigitalMarketing} title='Ui/Ux Design' text='I work with certain design tools to create high-fidelity designs and prototypes. I design accessible and usable products which aid business growth.' />

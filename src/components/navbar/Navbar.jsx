@@ -28,7 +28,7 @@ function Navbar() {
                     <Menu />
                 </div>
                 <div className='portfolio-navbar-ctabtn'>
-                    <button type='button'>Get in touch</button>
+                    <a href='#contact'>Get in touch</a>
                 </div>
                 <div className='portfolio-navbar-menu'>
                     {toggleMenu ? <RiCloseLine color='#fff' size={27} onClick={() => setToggleMenu(false)} />
@@ -39,7 +39,7 @@ function Navbar() {
                             <div className='portfolio-navbar-menu-container-links'>
                                 <Menu />
                                 <div className='portfolio-navbar-menu-container-links-ctabtn'>
-                                    <button type='button'>Get in touch</button>
+                                    <a className='portfolio-navbar-menu-ctabtn' href='#contact'>Get in touch</a>
                                 </div>
                             </div>
                         </div>
