@@ -1,7 +1,7 @@
 import React from 'react'
 
 //Custom components
-import { Footer, Works, Services, Hero } from './containers'
+import { Footer, Works, Services, Hero, Resume } from './containers'
 import { Contact, Navbar } from './components'
 
 import './App.css'
@@ -13,6 +13,7 @@ const App = () => {
                 <Navbar />
                 <Hero />
             </div>
+            <Resume />
             <Services />
             <Works />
             <Contact />

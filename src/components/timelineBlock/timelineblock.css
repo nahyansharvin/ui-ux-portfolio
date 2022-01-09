@@ -1,0 +1,125 @@
+.timeline-block{
+    position: relative;
+    padding-top: 1.5rem;
+    margin-top: 1.5rem;
+    color: #ffffff;
+}
+
+.timeline-icon{
+    height: 3.6rem;
+    width: 3.6rem;
+    line-height: 4.8rem;
+    background: #4e4a4a;
+    border-radius: 50%;
+    text-align: center;
+    color: #ffffff;
+    position: absolute;
+    left: 35%;
+    top: 0.9rem;
+    margin-left: -1.8rem;
+}
+
+.timeline-header{
+    float: left;
+    width: 35%;
+    padding-right: 90px;
+    text-align: right;
+}
+
+.timeline-header p{
+    font-size: 1rem;
+    color: var(--color-text);
+}
+
+.timeline-content{
+    margin-left: 35%;
+    padding-left: 60px;
+}
+
+.timeline-content h3{
+    position: relative;
+    padding-bottom: 1rem;
+}
+
+.timeline-content h3::after{
+    content: "";
+    display: block;
+    height: 3px;
+    width: 50px;
+    background: var(--gradient-bar);
+    position: absolute;
+    left: 0;
+    bottom: 0;
+}
+
+.timeline-content p{
+    margin-top: 1rem;
+}
+
+@media screen and (max-width: 1024px) {
+    .timeline-header{
+        padding-right: 50px;
+    }
+
+    .timeline-content{
+        padding-left: 50px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .timeline-header{
+        float: none;
+        width: auto;
+        padding-right: 15px;
+        text-align: left;
+    }
+
+    .timeline-icon{
+        left: 2.4rem;
+        top: 1.5rem;
+    }
+    .timeline-header p{
+        margin-bottom: 1.5rem;
+    }
+
+    .timeline-header, .timeline-content{
+        padding-left: 7rem;
+    }
+
+    .timeline-content{
+        margin: 0;
+    }
+
+    .timeline-content h3{
+        padding-bottom: 0;
+        padding-top: 2.1rem;
+        margin-bottom: 0.6rem;
+        font-size: 1.7rem;
+    }
+    .timeline-content h3::after{
+        bottom: auto;
+        top: 0;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .timeline-header, .timeline-content{
+        padding-left: 5.5rem;
+    }
+
+    .timeline-header P{
+        margin-bottom: 0.8rem;
+    }
+    .timeline-icon{
+        height: 3.3rem;
+        width: 3.3rem;
+        left: 1.8rem;
+        top: 1.6rem;
+        font-size: 0.8rem;
+    }
+
+    .timeline-block h3{
+        font-size: 1.4rem;
+        padding-top: 0.8rem;
+    }
+}

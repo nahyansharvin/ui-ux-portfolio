@@ -1,0 +1,51 @@
+.workexperience{
+    padding: 5rem;
+    padding-right: 10rem;
+}
+
+.workexperience-heading{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 2rem;
+}
+
+.workexperience-heading h2{
+    color: #FF4820;
+}
+
+.timeline-container{
+    position: relative;
+    margin-top: 1.5rem;
+    margin-bottom: 6rem;
+}
+
+.timeline-container::before{
+    content: "";
+    display: block;
+    width: 1px;
+    height: 100%;
+    background: rgba(241, 241, 241, 0.1);
+    position: absolute;
+    left: 35%;
+    top: 0;
+}
+
+@media screen and (max-width: 768px) {
+    .workexperience{
+        padding: 0;
+    }
+
+    .timeline-container::before{
+        left: 2.4rem;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .timeline-container::before{
+        left: 1.8rem;
+    }
+    .workexperience{
+        padding: 0;
+    }
+}

@@ -7,7 +7,7 @@ function Footer() {
         <div className='footer section-padding'>
             <SocialMedia />
             <div className='footer-copyright'>
-                <p>© 2021 NAHYAN. All rights reserved.</p>
+                <p>© 2022 NAHYAN. All rights reserved.</p>
             </div>
         </div>
     )

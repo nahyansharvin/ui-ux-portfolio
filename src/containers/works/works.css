@@ -1,0 +1,9 @@
+.works h1{
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.works h3{
+    color: var(--color-text);
+    font-weight: 500;
+}
