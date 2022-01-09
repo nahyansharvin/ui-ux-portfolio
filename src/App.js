@@ -1,8 +1,8 @@
 import React from 'react'
 
 //Custom components
-import { Footer, Works, Header, Services, Hero } from './containers'
-import { Contact, Brand, Navbar } from './components'
+import { Footer, Works, Services, Hero } from './containers'
+import { Contact, Navbar } from './components'
 
 import './App.css'
 
@@ -13,7 +13,6 @@ const App = () => {
                 <Navbar />
                 <Hero />
             </div>
-            <Brand />
             <Services />
             <Works />
             <Contact />
