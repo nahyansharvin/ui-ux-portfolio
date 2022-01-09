@@ -13,8 +13,8 @@ const App = () => {
                 <Navbar />
                 <Hero />
             </div>
-            <Resume />
             <Services />
+            <Resume />
             <Works />
             <Contact />
             <Footer />

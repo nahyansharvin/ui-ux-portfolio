@@ -12,3 +12,9 @@
     font-size: 14px;
     transform: translateY(45px);
 }
+
+@media screen and (max-width:480px) {
+    .footer-copyright p{
+        font-size: 10px;
+    }
+}
