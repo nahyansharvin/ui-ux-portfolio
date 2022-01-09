@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ui-ux-portfolio/static/css/main.f3149928.css",
+    "main.js": "/ui-ux-portfolio/static/js/main.9aba9c79.js",
+    "static/media/hero_img.png": "/ui-ux-portfolio/static/media/hero_img.ae0cd3e4530debb5c07e.png",
+    "static/media/hero_image.png": "/ui-ux-portfolio/static/media/hero_image.4780f2010dd891f51c85.png",
+    "static/media/logo.svg": "/ui-ux-portfolio/static/media/logo.16efaf42dda438e5346df59725d9e6a6.svg",
+    "static/media/brackets.svg": "/ui-ux-portfolio/static/media/brackets.f8dfa28d73feda909272a47a90777057.svg",
+    "static/media/sketch.svg": "/ui-ux-portfolio/static/media/sketch.40fea6cf6b4e197cf4ec7840c003bdf4.svg",
+    "static/media/digital-marketing.svg": "/ui-ux-portfolio/static/media/digital-marketing.91f7c7b33ce81b7f6036ac92a7cc5939.svg",
+    "index.html": "/ui-ux-portfolio/index.html",
+    "static/media/app-development.svg": "/ui-ux-portfolio/static/media/app-development.6fc1b87f712ce926271a808d9222a5bd.svg",
+    "main.f3149928.css.map": "/ui-ux-portfolio/static/css/main.f3149928.css.map",
+    "main.9aba9c79.js.map": "/ui-ux-portfolio/static/js/main.9aba9c79.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3149928.css",
+    "static/js/main.9aba9c79.js"
+  ]
+}
