@@ -3,6 +3,7 @@ import './hero.css'
 
 //Assets
 import hero_img from '../../assets/hero_img.png'
+import hero_image from '../../assets/hero_image.png'
 
 function Hero() {
     return (
@@ -17,6 +18,7 @@ function Hero() {
             </div>
             <div className='hero-image'>
                 {/* <img src={hero_img} alt='Hero' /> */}
+                <img src={hero_image} alt='Hero' />
             </div>
         </div>
         <div className='hero-scroll-animation'>
