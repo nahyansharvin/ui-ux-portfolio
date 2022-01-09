@@ -3,8 +3,8 @@ import './contact.css'
 
 function Contact() {
     return (
-        <div className='contact' id='contact'>
-            
+        <div className='contact section-margin' id='contact'>
+            contact
         </div>
     )
 }

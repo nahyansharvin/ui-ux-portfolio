@@ -1,0 +1,5 @@
+.contact{
+    background: var(--gradient-bar);
+    height: 200px;
+    border-radius: 1rem;
+}
