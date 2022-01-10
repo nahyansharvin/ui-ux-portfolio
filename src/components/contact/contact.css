@@ -1,7 +1,14 @@
+.contact-wrapper h1{
+    font-size: 40px;
+    font-weight: 800;
+}
+
 .contact{
     background: var(--gradient-bar);
     padding: 2rem;
+    margin: 2.5rem 5rem;
     border-radius: 1rem;
+    min-height: 584px;
 }
 
 .contact-heading{

@@ -7,3 +7,10 @@
     color: var(--color-text);
     font-weight: 500;
 }
+
+.works-container{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 2rem;
+    justify-content: center;
+}
