@@ -11,7 +11,7 @@ import ExpenseTracker from '../../assets/projects/expense-tracker.png'
 
 function Works() {
     return (
-        <div className='works section-margin'>
+        <div className='works section-margin' id='works'>
         <h1 className='gradient-text'>Portfolio</h1>
         <h3>Check Out Some of My Projects.</h3>
             <div className='works-container'>

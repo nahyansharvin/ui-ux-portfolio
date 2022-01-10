@@ -11,7 +11,7 @@ const Menu = () => (
     <p><a href='#home'>Home</a></p>
     <p><a href='#services'>Services</a></p>
     <p><a href='#about'>About</a></p>
-    <p><a href='#works'>Works</a></p>
+    <p><a href='#works'>Portfolio</a></p>
     <p><a href='https://drive.google.com/file/d/1QDqnl9HvnNNSbP7tL59JWF5DuNVRBFEK/view?usp=sharing' target="_blank">Download CV</a></p>
     </>
 )
