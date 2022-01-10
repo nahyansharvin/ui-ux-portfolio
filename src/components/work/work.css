@@ -1,6 +1,6 @@
 .work-grid{
     background: var(--color-blog);
-    max-width: 500px;
+    max-width: 450px;
     border-radius: 10px;
     margin: 2rem;
 }

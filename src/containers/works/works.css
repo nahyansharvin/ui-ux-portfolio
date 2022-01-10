@@ -14,3 +14,9 @@
     padding: 2rem;
     justify-content: center;
 }
+
+@media screen and (max-width: 480px) {
+    .works-container{
+        padding: 0;
+    }
+}
