@@ -1,20 +1,25 @@
 {
   "files": {
-    "main.css": "/ui-ux-portfolio/static/css/main.f3149928.css",
-    "main.js": "/ui-ux-portfolio/static/js/main.9aba9c79.js",
+    "main.css": "/ui-ux-portfolio/static/css/main.d30d0189.css",
+    "main.js": "/ui-ux-portfolio/static/js/main.abe31c7f.js",
+    "static/media/Time-table-page.png": "/ui-ux-portfolio/static/media/Time-table-page.fe1d59109fc1823c401e.png",
     "static/media/hero_img.png": "/ui-ux-portfolio/static/media/hero_img.ae0cd3e4530debb5c07e.png",
+    "static/media/discord-bot.png": "/ui-ux-portfolio/static/media/discord-bot.01128868f983e05fc4a7.png",
+    "static/media/Home.png": "/ui-ux-portfolio/static/media/Home.111d08bbed310df04a82.png",
     "static/media/hero_image.png": "/ui-ux-portfolio/static/media/hero_image.4780f2010dd891f51c85.png",
+    "static/media/expense-tracker.png": "/ui-ux-portfolio/static/media/expense-tracker.b09ff05f49a1f29234fc.png",
+    "static/media/studentprofile.jpeg": "/ui-ux-portfolio/static/media/studentprofile.f603bf5bed32e3ba792c.jpeg",
     "static/media/logo.svg": "/ui-ux-portfolio/static/media/logo.16efaf42dda438e5346df59725d9e6a6.svg",
     "static/media/brackets.svg": "/ui-ux-portfolio/static/media/brackets.f8dfa28d73feda909272a47a90777057.svg",
     "static/media/sketch.svg": "/ui-ux-portfolio/static/media/sketch.40fea6cf6b4e197cf4ec7840c003bdf4.svg",
     "static/media/digital-marketing.svg": "/ui-ux-portfolio/static/media/digital-marketing.91f7c7b33ce81b7f6036ac92a7cc5939.svg",
     "index.html": "/ui-ux-portfolio/index.html",
     "static/media/app-development.svg": "/ui-ux-portfolio/static/media/app-development.6fc1b87f712ce926271a808d9222a5bd.svg",
-    "main.f3149928.css.map": "/ui-ux-portfolio/static/css/main.f3149928.css.map",
-    "main.9aba9c79.js.map": "/ui-ux-portfolio/static/js/main.9aba9c79.js.map"
+    "main.d30d0189.css.map": "/ui-ux-portfolio/static/css/main.d30d0189.css.map",
+    "main.abe31c7f.js.map": "/ui-ux-portfolio/static/js/main.abe31c7f.js.map"
   },
   "entrypoints": [
-    "static/css/main.f3149928.css",
-    "static/js/main.9aba9c79.js"
+    "static/css/main.d30d0189.css",
+    "static/js/main.abe31c7f.js"
   ]
 }
