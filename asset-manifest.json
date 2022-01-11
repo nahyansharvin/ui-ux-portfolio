@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ui-ux-portfolio/static/css/main.2561c499.css",
+    "main.css": "/ui-ux-portfolio/static/css/main.d30d0189.css",
     "main.js": "/ui-ux-portfolio/static/js/main.f36f6668.js",
     "static/media/Time-table-page.png": "/ui-ux-portfolio/static/media/Time-table-page.fe1d59109fc1823c401e.png",
     "static/media/hero_img.png": "/ui-ux-portfolio/static/media/hero_img.ae0cd3e4530debb5c07e.png",
@@ -15,11 +15,11 @@
     "static/media/digital-marketing.svg": "/ui-ux-portfolio/static/media/digital-marketing.91f7c7b33ce81b7f6036ac92a7cc5939.svg",
     "index.html": "/ui-ux-portfolio/index.html",
     "static/media/app-development.svg": "/ui-ux-portfolio/static/media/app-development.6fc1b87f712ce926271a808d9222a5bd.svg",
-    "main.2561c499.css.map": "/ui-ux-portfolio/static/css/main.2561c499.css.map",
+    "main.d30d0189.css.map": "/ui-ux-portfolio/static/css/main.d30d0189.css.map",
     "main.f36f6668.js.map": "/ui-ux-portfolio/static/js/main.f36f6668.js.map"
   },
   "entrypoints": [
-    "static/css/main.2561c499.css",
+    "static/css/main.d30d0189.css",
     "static/js/main.f36f6668.js"
   ]
 }
