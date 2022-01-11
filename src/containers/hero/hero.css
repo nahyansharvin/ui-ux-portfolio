@@ -74,7 +74,7 @@
 
 @media screen and (max-width: 1050px) {
     .hero{
-        flex-direction: column-reverse;
+        flex-direction: column;
     }
 
     .hero-content{
@@ -87,7 +87,6 @@
 
     .hero-image img{
         margin-right: auto;
-        transform: translateY(-2rem);
     }
 
     .hero-scroll-animation{
