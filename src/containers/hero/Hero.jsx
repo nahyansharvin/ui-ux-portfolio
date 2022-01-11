@@ -13,7 +13,7 @@ function Hero() {
                 <h1 className='gradient-text'>I’m Nahyan Sharvin</h1>
                 <h2>Designer cum Developer</h2>
                 <p>My missioin is to help your business grow through my conversion-focused branding, design, development, marketing and communication expertise.</p>
-                <a href='#services' className='explore-btn'>Explore my works</a>
+                <a href='#works' className='explore-btn'>Explore my works</a>
 
             </div>
             <div className='hero-image'>

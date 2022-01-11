@@ -1,5 +1,4 @@
 .hero{
-    /* height: calc(100vh - 100px); */
     display: flex;
     padding-top: 1rem !important;
 }
@@ -9,6 +8,7 @@
         height: calc(100vh - 100px);
     }
 }
+
 .hero-content{
     flex: 1;
     display: flex;
@@ -74,7 +74,7 @@
 
 @media screen and (max-width: 1050px) {
     .hero{
-        flex-direction: column;
+        flex-direction: column-reverse;
     }
 
     .hero-content{
@@ -87,6 +87,7 @@
 
     .hero-image img{
         margin-right: auto;
+        transform: translateY(-2rem);
     }
 
     .hero-scroll-animation{
