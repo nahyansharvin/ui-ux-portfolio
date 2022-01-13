@@ -8,6 +8,7 @@ import DiscordBot from '../../assets/projects/discord-bot.png'
 import TimeTableApp from '../../assets/projects/Time-table-page.png'
 import ProfileApp from '../../assets/projects/Home.png'
 import ExpenseTracker from '../../assets/projects/expense-tracker.png'
+import Poster from '../../assets/projects/eranadan_thakkaram_2.jpg'
 
 function Works() {
     return (
@@ -25,6 +26,7 @@ function Works() {
 
                 <Work image={ExpenseTracker} title="Expense Tracker" subTitle="UI/UX Design" text="This is a simple Expense Tracker design created for the React,js Bootcamp Held at EMEA College organised by TinkerHub EMEA. This was designed to give the participants a task for development." codeLink="https://www.figma.com/file/OpZVasP6AHifcys8CWcMPA/Expense-Tracker?node-id=2%3A2" />
 
+                <Work image={Poster} title="Poster Design" subTitle="Graphic Design" text="This is a simple Expense Tracker design created for the React,js Bootcamp Held at EMEA College organised by TinkerHub EMEA. This was designed to give the participants a task for development." codeLink="https://www.figma.com/file/OpZVasP6AHifcys8CWcMPA/Expense-Tracker?node-id=2%3A2" />
 
             </div>
         </div>
