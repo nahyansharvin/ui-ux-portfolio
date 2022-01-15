@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ui-ux-portfolio/static/css/main.153a3cdc.css",
+    "main.css": "/ui-ux-portfolio/static/css/main.01460040.css",
     "main.js": "/ui-ux-portfolio/static/js/main.c5b03de7.js",
     "static/media/eranadan_thakkaram_2.jpg": "/ui-ux-portfolio/static/media/eranadan_thakkaram_2.3bb2450321f5b8aa6228.jpg",
     "static/media/Time-table-page.png": "/ui-ux-portfolio/static/media/Time-table-page.fe1d59109fc1823c401e.png",
@@ -16,11 +16,11 @@
     "static/media/digital-marketing.svg": "/ui-ux-portfolio/static/media/digital-marketing.91f7c7b33ce81b7f6036ac92a7cc5939.svg",
     "index.html": "/ui-ux-portfolio/index.html",
     "static/media/app-development.svg": "/ui-ux-portfolio/static/media/app-development.6fc1b87f712ce926271a808d9222a5bd.svg",
-    "main.153a3cdc.css.map": "/ui-ux-portfolio/static/css/main.153a3cdc.css.map",
+    "main.01460040.css.map": "/ui-ux-portfolio/static/css/main.01460040.css.map",
     "main.c5b03de7.js.map": "/ui-ux-portfolio/static/js/main.c5b03de7.js.map"
   },
   "entrypoints": [
-    "static/css/main.153a3cdc.css",
+    "static/css/main.01460040.css",
     "static/js/main.c5b03de7.js"
   ]
 }
