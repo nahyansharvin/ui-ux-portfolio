@@ -9,7 +9,7 @@
     height: 3.6rem;
     width: 3.6rem;
     line-height: 4.8rem;
-    background: #4e4a4a;
+    background: var(--gradient-bar);
     border-radius: 50%;
     text-align: center;
     color: #ffffff;
