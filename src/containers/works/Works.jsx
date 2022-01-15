@@ -24,7 +24,7 @@ function Works() {
 
                 <Work image={ProfileApp} title="Profile App" subTitle="UI/UX Design" text="This is a simple profile app design created for the React,js Bootcamp Held at EMEA College organised by TinkerHub EMEA. This was designed to give the participants a task for development." codeLink="https://www.figma.com/file/6P3B4TS8IUjKtrHgrAjv80/Profile-App?node-id=0%3A1" />
 
-                <Work image={ExpenseTracker} title="Expense Tracker" subTitle="UI/UX Design" text="This is a simple Expense Tracker design created for the React,js Bootcamp Held at EMEA College organised by TinkerHub EMEA. This was designed to give the participants a task for development." codeLink="https://www.figma.com/file/OpZVasP6AHifcys8CWcMPA/Expense-Tracker?node-id=2%3A2" />
+                <Work image={ExpenseTracker} title="Expense Tracker" subTitle="UI/UX Design" text="This is a simple Expense Tracker design created for the React.js Bootcamp Held at EMEA College organized by TinkerHub EMEA. This was designed to give the participants a task for development." codeLink="https://www.figma.com/file/OpZVasP6AHifcys8CWcMPA/Expense-Tracker?node-id=2%3A2" />
 
                 <Work image={Poster} title="Poster Design" subTitle="Graphic Design" text="Social Media banners created using various design tools such as Adobe Photoshop and Adobe Illustrator." codeLink="https://drive.google.com/drive/folders/17VEuYbOOSk0FqEyaVGmr7tFHKleC5xaN?usp=sharing" />
 
