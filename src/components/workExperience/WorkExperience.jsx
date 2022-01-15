@@ -16,7 +16,7 @@ function WorkExperience() {
 
                 <TimelineBlock icon={<WorkIcon fontSize='large' />} title='Co-Founder' duration='May 2021 - Present' company='TinkerHub EMEA' text="I co-founded TinkerHub EMEA Chapter with my colleagues. That was a great achievement in our college." />
 
-                <TimelineBlock icon={<WorkIcon fontSize='large' />} title='Crative Lead' duration='May 2021 - Present' company='TinkerHub EMEA' text="I bear the role of Creative Lead in TinkerHub EMEA Chapter. My duty is to coordinate every creative tasks such as graphics, video etc. " />
+                <TimelineBlock icon={<WorkIcon fontSize='large' />} title='Creative Lead' duration='May 2021 - Present' company='TinkerHub EMEA' text="I bear the role of Creative Lead in TinkerHub EMEA Chapter. My duty is to coordinate every creative tasks such as graphics, video etc. " />
 
                 <TimelineBlock icon={<WorkIcon fontSize='large' />} title='UI/UX Designer' duration='Feb 2021 - Present' company='Freelance' text="Working as a freelance UI/UX Designer creating stunning User Interface designs with great User Experience. Expertise in design tools such as Figma and Adobe XD." />
 
